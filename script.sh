@@ -1,0 +1,1 @@
+bun run sprite.ts [video_file]
